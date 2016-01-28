@@ -1,3 +1,6 @@
+# Fork note
+Debugging Travis CI builds with Android emulator
+
 [![Build Status](https://travis-ci.org/codecov/example-android.svg?branch=master)](https://travis-ci.org/codecov/example-android)
 [![codecov.io](https://codecov.io/github/codecov/example-android/coverage.svg?branch=master)](https://codecov.io/github/codecov/example-android?branch=master)
 # Codecov Android Example
